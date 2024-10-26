@@ -1,4 +1,4 @@
-# Alpha-Research
+# AlphaResearch
 Welcome to Alpha Research!
 We're a team passionate about building AI models That can understand different types of data , from business reports to complex datasets.
 Our goal is to train these models to deliver accurate, meaningful answers that anyone can use with confidence.
